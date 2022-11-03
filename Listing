@@ -1,0 +1,58 @@
+"Ezochetms": "ezochetms@gmail.com"
+ Gen_token_detail_dict.json
+  gen_list_from_raw.py
+
+{
+     0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF": {
+        "decimals": 18,
+        "exchanges": [
+            "HitBTC",
+            "Tidex"
+        ],
+        "info":epf goerli of https://t.me/ezochetms_group.com ,
+        "name":Ethereum , "networks" : goerli test network,
+        "rank": 2,
+        "symbol":EPF ,
+        "totalSupply": 21000000
+    },
+    
+{ 
+0x86110c296D6b5d0A5C714dc80548d29351B0105b" : {
+        "decimals": 6,
+        "exchanges": [
+            "Livecoin" ,
+             "0kex" , "cctip", "binance"
+        ],
+        "info": USDT of https://t.me/Ezochetms_group.com
+        "name": "tether", "network" : goerli test network ,
+        "rank": 3,
+        "symbol": "USDT",
+        "totalSupply": 100000000000000
+    }
+} 
+{
+    0x0d78270c928958FdCb83E74EF53633Fa1A183336 : {
+        "decimals": 1,"exchanges": [
+            "HitBTC",
+            "Tidex" "cctip",  ],
+        "Issue": "https://t.me/ezochetms_group.com ,
+        "name":Ezochetms2", "symbol": "EZOCH", "networks" : goerli test network,
+           "TotalSupply":100000000000000 ,   }
+
+{
+   0x2A469D725a14A13ad2112914e7c394995e3c1BFd
+       "name": "Centenaire", "decimal":4,
+       "network" : goerli test network ,
+        "Info": powerfull erc20token creted by https://ezochetms_group.com ,,
+        "symbol": "CENT","Exchange":  [ "finexbox" , "cctip" , "binance" ,]
+        "totalSupply": 100000000000000 ,
+}
+
+{ 0xF980031D043051d8AFA923dca388E5E9b1FFE09c
+    "Name":"Ezochetms", "symbol":"EZOCH" ,
+     "Decimal":18,
+   "Exchange":"cctip","okex",
+    "TotalSupply": "100000000000000",
+    "Info":"défi token by https://t.me/ezochetms_group.com  
+     "Networks":"goerli test network " ,
+}
