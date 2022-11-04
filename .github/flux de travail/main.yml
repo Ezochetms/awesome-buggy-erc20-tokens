@@ -1,0 +1,11 @@
+$ git remote -v
+> origin  https://github.com/ezochetms/awesome-buggy-erc20-tokens (fetch)
+> origin  https://github.com/ezochetms/awesome-buggy-erc20-tokens (push)
+
+$ git remote add upstream https://github.com/sec-bit/awesome-buggy-erc20-tokens
+
+$ git remote -v
+> origin    https://github.com/ezochetms/awesome-buggy-erc20-tokens (fetch)
+> origin    https://github.com/ezochetms/awesome-buggy-erc20-tokens (push)
+> upstream  https://github.com/sec-bit/awesome-buggy-erc20-tokens (fetch)
+> upstream  https://github.com/sec-bit/awesome-buggy-erc20-tokens (push
